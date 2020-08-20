@@ -1,2 +1,6 @@
 server:
   port: 8080
+
+urlconfigs:
+  queryUserInfo: http://localhost:8080/queryUserInfo
+  editUserInfo: http://localhost:8080/editUserInfo
